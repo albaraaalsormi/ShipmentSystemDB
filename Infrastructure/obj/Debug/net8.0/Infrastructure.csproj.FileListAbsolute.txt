@@ -1,0 +1,42 @@
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
