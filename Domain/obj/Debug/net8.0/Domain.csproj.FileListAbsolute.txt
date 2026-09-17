@@ -1,0 +1,33 @@
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\albar\OneDrive\Desktop\Shipment Final Project\Shipment_System\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Osama_Al_Hubaishi\Documents\CS 5\Event Driven Program\Shipment Final Project\Shipment_System\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\albar\OneDrive\Desktop\Shipment_System\Shipment_System\Domain\obj\Debug\net8.0\ref\Domain.dll
